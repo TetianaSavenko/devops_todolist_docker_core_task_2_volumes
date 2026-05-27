@@ -29,3 +29,6 @@ docker run -d \
 ## 4. Access the application
 
 Open your browser and go to:
+```
+http://localhost:8080
+```
